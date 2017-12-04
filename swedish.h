@@ -16,8 +16,8 @@
 #define för for
 #define förvarje foreach
 #define medans while
-#define do gör
-#define testa try
+#define gör do
+#define förskök try
 #define fånga catch
 #define konstant const
 #define tecken char
